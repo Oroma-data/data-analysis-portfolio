@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project analyzes sales data to understand business performance, identify sales trends, and discover the products, regions, and customer segments contributing most to revenue and profit.
-"https://app.powerbi.com/view?r=eyJrIjoiMzE1Y2U4ZjktMzk0OS00MTM4LTgxYjctNTFiNjgxYmZmNjAzIiwidCI6ImE3YmEyMWM3LTFhZTYtNDAwNy04NjY2LWE0MDg1NGU5ZmYwNCJ9"
+https://app.powerbi.com/view?r=eyJrIjoiMzE1Y2U4ZjktMzk0OS00MTM4LTgxYjctNTFiNjgxYmZmNjAzIiwidCI6ImE3YmEyMWM3LTFhZTYtNDAwNy04NjY2LWE0MDg1NGU5ZmYwNCJ9
 
 ## Business Problem
 
