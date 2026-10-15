@@ -51,7 +51,8 @@ The analysis focused on:
 ## Dashboard
 
 The final dashboard was created to provide an interactive view of the company's sales performance.
-![Global Superstore Dashboard](PROJECT 1 Dashboard 4.png)
+[View Interactive Dashboard](<iframe title="PROJECT 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzE1Y2U4ZjktMzk0OS00MTM4LTgxYjctNTFiNjgxYmZmNjAzIiwidCI6ImE3YmEyMWM3LTFhZTYtNDAwNy04NjY2LWE0MDg1NGU5ZmYwNCJ9" frameborder="0" allowFullScreen="true"></iframe>)
+
 ## Key Findings
 
 - . The USA, India and China Were the Top Profit-Making Countries
