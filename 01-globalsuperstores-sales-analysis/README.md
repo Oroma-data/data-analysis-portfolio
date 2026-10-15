@@ -51,11 +51,7 @@ The analysis focused on:
 ## Dashboard
 
 The final dashboard was created to provide an interactive view of the company's sales performance.
-https://github.com/Oroma-data/data-analysis-portfolio/blob/main/01-globalsuperstores-sales-analysis/PROJECT%201%20Dashboard%201.png
-https://github.com/Oroma-data/data-analysis-portfolio/blob/main/01-globalsuperstores-sales-analysis/PROJECT%201%20Dashboard%202.png
-https://github.com/Oroma-data/data-analysis-portfolio/blob/main/01-globalsuperstores-sales-analysis/PROJECT%201%20Dashboard%203.png
-https://github.com/Oroma-data/data-analysis-portfolio/blob/main/01-globalsuperstores-sales-analysis/PROJECT%201%20Dashboard%204.png
-
+![Sales Dashboard](sales-dashboard.png)
 ## Key Findings
 
 - . The USA, India and China Were the Top Profit-Making Countries
