@@ -51,7 +51,7 @@ The analysis focused on:
 ## Dashboard
 
 The final dashboard was created to provide an interactive view of the company's sales performance.
-![Sales Dashboard](sales-dashboard.png)
+![Global Superstore Dashboard](PROJECT 1 Dashboard 4.png)
 ## Key Findings
 
 - . The USA, India and China Were the Top Profit-Making Countries
